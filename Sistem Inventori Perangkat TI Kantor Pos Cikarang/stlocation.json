@@ -1,0 +1,32 @@
+[
+{"type":"header","version":"5.0.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"aset_it"},
+{"type":"table","name":"stlocation","database":"aset_it","data":
+[
+{"stdev_id":"1","stdev_location_name":"Lantai 1 - VESTIBULE","thumbnails":"images\/kprk.png"},
+{"stdev_id":"2","stdev_location_name":"Lantai 1 - PUPL","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"3","stdev_location_name":"Lantai 1 - Antaran","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"4","stdev_location_name":"Lantai 1 - Prosesing","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"5","stdev_location_name":"Lantai 1 - BMS","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"6","stdev_location_name":"Lantai 1 - Keuangan","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"7","stdev_location_name":"Lantai 2 - Dukungan Umum","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"8","stdev_location_name":"Lantai 2 - Pemasaran","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"9","stdev_location_name":"Lantai 2 - Gudang IT","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"10","stdev_location_name":"Lantai 2 - Ruang Server","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"11","stdev_location_name":"KPC SETU 17320B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"12","stdev_location_name":"KPC TAMBUN 17510B1","thumbnails":"images\/tambun.png"},
+{"stdev_id":"13","stdev_location_name":"KPC CIBITUNG 17520B1","thumbnails":"images\/cibitung.png"},
+{"stdev_id":"14","stdev_location_name":"KPC LIPPO CIKARANG 17850A1","thumbnails":"images\/lippo.png"},
+{"stdev_id":"15","stdev_location_name":"KPC CIKARANG UTARA 17839B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"16","stdev_location_name":"KPC LEMAHABANG 17830B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"17","stdev_location_name":"KPC KEDUNGWARINGIN 17540B1","thumbnails":"images\/kedungwaringin.png"},
+{"stdev_id":"18","stdev_location_name":"KPC SERANGBEKASI 17330B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"19","stdev_location_name":"KPC CIBARUSAH 17340B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"20","stdev_location_name":"KPC PEBAYURAN 17710B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"21","stdev_location_name":"KPC CABANGBUNGIN 17720B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"22","stdev_location_name":"KPC MUARAGEMBONG 17730B1","thumbnails":"images\/thumbnails.jpg"},
+{"stdev_id":"23","stdev_location_name":"KPC TAMBELANG 17620B1","thumbnails":"images\/tambelang.png"},
+{"stdev_id":"24","stdev_location_name":"KPC SUKATANI 17630B1","thumbnails":"images\/sukatani.png"}
+]
+}
+]
